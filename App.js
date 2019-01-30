@@ -74,7 +74,7 @@ export default class App extends React.Component {
             style={styles.button}
             onPress={this.handleCalculate}
           >
-            <Text style={styles.buttonText}>Calculate</Text>
+            <Text style={styles.buttonText}>Calculate </Text>
           </TouchableOpacity>
           <Text style={styles.result}>{this.state.resultNumber}</Text>
           <Text style={[styles.result, { fontSize: 35 }]}>
