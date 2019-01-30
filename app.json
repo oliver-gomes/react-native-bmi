@@ -2,14 +2,13 @@
   "expo": {
     "name": "Body Mass Index Calculator",
     "slug": "bmi-calculator",
-    "icon": "./logo.png",
-    "description": "Feedback on Body mass index (BMI) to measure body fat based on height and weight",
+    "description": "Feedback on Body mass index (BMI) to measure body fat based on height and weight: Height(inches) and Mass(Pound). Learn more about what the number means and risk factors here: https://www.nhlbi.nih.gov/health/educational/lose_wt/risk.htm",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": ["ios", "android"],
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/logo.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
