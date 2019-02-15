@@ -9,7 +9,7 @@ Feedback on Body mass index (BMI) to measure body fat based on height and weight
 Scan the QR code from the above link with your Expo App with Android/Iphone
 
 ## Design Overview
-- More on my Behance (https://www.behance.net/gallery/75656331/BMI-Calculator-App)
+- [More on my Behance](https://www.behance.net/gallery/75656331/BMI-Calculator-App)
 ![project image](https://oliver-gomes.github.io/images/github%20images/bmi-behance.png)
 
 
