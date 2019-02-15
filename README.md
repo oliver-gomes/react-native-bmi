@@ -17,5 +17,5 @@ Scan the QR code from the above link with your Expo App with Android/Iphone
 ```
 git clone https://github.com/oliver-gomes/react-native-bmi.git
 npm install
-expo start
+npm start
 ```
