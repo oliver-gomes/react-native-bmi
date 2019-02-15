@@ -1,11 +1,12 @@
 # BMI Calculator w/React Native
 
 ## Use the App
-[Link to Expo Store ](https://oliver-gomes.github.io/projects/memory-game)
+- [Link to Expo Store ](https://oliver-gomes.github.io/projects/memory-game)
 
 Scan the QR code from the above link with your Expo App with Android/Iphone
 
-Go to Expo store and Scan the QR code with Expo app with your Android or Iphone to see the app
+## Design Overview
+- More on my Behance (https://www.behance.net/gallery/75656331/BMI-Calculator-App)
 ![project image](https://oliver-gomes.github.io/images/github%20images/bmi-behance.png)
 
 
