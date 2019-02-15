@@ -1,5 +1,8 @@
 # BMI Calculator w/React Native
 
+
+Feedback on Body mass index (BMI) to measure body fat based on height and weight. Learn more about what the number means and risk factors here: https://www.nhlbi.nih.gov/health/educational/lose_wt/risk.htm
+
 ## Use the App
 - [Link to Expo Store ](https://oliver-gomes.github.io/projects/memory-game)
 
