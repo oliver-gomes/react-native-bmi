@@ -1,4 +1,4 @@
-# react-native-bmi
+# BMI Calculator w/React Native
 
 ![project image](https://oliver-gomes.github.io/images/github%20images/bmi-behance.png)
 
