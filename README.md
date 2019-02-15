@@ -13,4 +13,9 @@ Scan the QR code from the above link with your Expo App with Android/Iphone
 ![project image](https://oliver-gomes.github.io/images/github%20images/bmi-behance.png)
 
 
-Feedback on Body mass index (BMI) to measure body fat based on height and weight. Learn more about what the number means and risk factors here: https://lnkd.in/eBb8MNX
+### How to Load the App
+```
+git clone https://github.com/oliver-gomes/react-native-bmi.git
+npm install
+expo start
+```
